@@ -1,2 +1,0 @@
-# Logistics-and-shipment
-logistics 
